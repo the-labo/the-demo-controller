@@ -78,8 +78,7 @@ const { SomeCtrl } = require('the-demo-controller')
 const theServer = require('the-server')
 
 async function tryExample () {
-
-  let server = theServer({ /*...*/ })
+  let server = theServer({ /* ... */ })
 
   server.register(
     class extends SomeCtrl { /* ... */},
@@ -103,7 +102,7 @@ tryExample().catch((err) => console.error(err))
 API Guide
 -----
 
-+ [the-demo-controller@1.0.0](./doc/api/api.md)
++ [the-demo-controller@1.0.1](./doc/api/api.md)
   + [create(args)](./doc/api/api.md#the-demo-controller-function-create)
 
 

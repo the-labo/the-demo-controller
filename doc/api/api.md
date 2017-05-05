@@ -1,4 +1,4 @@
-# the-demo-controller@1.0.0
+# the-demo-controller@1.0.1
 
 Demo of the-controllers
 
