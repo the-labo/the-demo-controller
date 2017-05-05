@@ -1,0 +1,43 @@
+{
+  "classes": [
+    {
+      "name": "SomeCtrl",
+      "description": "",
+      "extends": [
+        "TheCtrl"
+      ],
+      "access": "",
+      "virtual": false,
+      "fires": "",
+      "constructor": {
+        "name": "SomeCtrl",
+        "description": "Demo of the-controllers",
+        "parameters": [],
+        "examples": []
+      }
+    }
+  ],
+  "functions": [
+    {
+      "name": "create",
+      "access": "",
+      "virtual": false,
+      "description": "Create a SomeCtrl instance",
+      "parameters": [
+        {
+          "name": "args",
+          "type": "*",
+          "description": "",
+          "default": "",
+          "optional": "",
+          "nullable": ""
+        }
+      ],
+      "examples": [],
+      "returns": {
+        "type": "SomeCtrl",
+        "description": ""
+      }
+    }
+  ]
+}
