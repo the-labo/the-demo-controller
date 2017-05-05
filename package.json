@@ -1,6 +1,6 @@
 {
   "name": "the-demo-controller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demo of the-controllers",
   "main": "lib",
   "browser": "shim",
