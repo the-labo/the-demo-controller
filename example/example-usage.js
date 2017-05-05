@@ -4,8 +4,7 @@ const { SomeCtrl } = require('the-demo-controller')
 const theServer = require('the-server')
 
 async function tryExample () {
-
-  let server = theServer({ /*...*/ })
+  let server = theServer({ /* ... */ })
 
   server.register(
     class extends SomeCtrl { /* ... */},
