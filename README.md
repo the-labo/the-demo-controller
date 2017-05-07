@@ -102,7 +102,7 @@ tryExample().catch((err) => console.error(err))
 API Guide
 -----
 
-+ [the-demo-controller@1.0.1](./doc/api/api.md)
++ [the-demo-controller@1.0.2](./doc/api/api.md)
   + [create(args)](./doc/api/api.md#the-demo-controller-function-create)
 
 
